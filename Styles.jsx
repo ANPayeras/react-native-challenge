@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
         width: Dimensions.get('screen').width,
         height: 250,
         borderWidth: 0.5,
-        top: 250,
+        top: 180,
         padding: 10,
         borderRadius: 10,
         justifyContent: 'center',
@@ -25,6 +25,7 @@ export const styles = StyleSheet.create({
         backgroundColor: 'red',
         width: Dimensions.get('screen').width,
         height: 50,
+        bottom: 250,
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'space-around'
