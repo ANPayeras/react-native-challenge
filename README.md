@@ -14,4 +14,4 @@ In this challenge I have made a image carrousel without libraries or plugins, to
 
 6 - Then in the tab that was be opened before we have to press on 'Run on Android device/emulator', this will be open the project in te virtual device.
 
-For more detail see the video in the folder assets/react-native-challenge-app.mp4.
+For more detail see the video in the folder assets/react-native-challenge-app.mp4. In it I show how the app works, navigating between images with buttons, and storing the last position that we have seen, so when we restore the app shows that image.
